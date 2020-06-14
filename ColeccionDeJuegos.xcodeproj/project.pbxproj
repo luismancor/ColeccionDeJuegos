@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F54B17F24969F5900ADBAE1 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F54B17E24969F5800ADBAE1 /* JuegosViewController.swift */; };
 		1FE20D29249555B400427C20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE20D28249555B400427C20 /* AppDelegate.swift */; };
 		1FE20D2B249555B400427C20 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE20D2A249555B400427C20 /* SceneDelegate.swift */; };
 		1FE20D2D249555B400427C20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE20D2C249555B400427C20 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F54B17E24969F5800ADBAE1 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 		1FE20D25249555B400427C20 /* ColeccionDeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColeccionDeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FE20D28249555B400427C20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FE20D2A249555B400427C20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				1FE20D36249555B900427C20 /* LaunchScreen.storyboard */,
 				1FE20D39249555B900427C20 /* Info.plist */,
 				1FE20D31249555B400427C20 /* ColeccionDeJuegos.xcdatamodeld */,
+				1F54B17E24969F5800ADBAE1 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F54B17F24969F5900ADBAE1 /* JuegosViewController.swift in Sources */,
 				1FE20D2D249555B400427C20 /* ViewController.swift in Sources */,
 				1FE20D29249555B400427C20 /* AppDelegate.swift in Sources */,
 				1FE20D2B249555B400427C20 /* SceneDelegate.swift in Sources */,
